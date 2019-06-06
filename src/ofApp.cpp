@@ -1,7 +1,5 @@
 #include "ofApp.h"
 
-constexpr int memory = 4;
-
 ofVideoPlayer player;
 ofFbo composite;
 int frame = -1;
